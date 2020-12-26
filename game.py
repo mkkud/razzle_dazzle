@@ -6,7 +6,6 @@ Created on Fri Dec 25 21:47:01 2020
 """
 
 import os
-
 import random
 
 def razzle_throw():
@@ -19,7 +18,7 @@ def razzle_throw():
         return score
 
 input("Press ENTER to open RAZZLE DAZZLE BOARD")
-#os.system('img001.png')
+os.system('img001.png')
 print("""Hello! Wanna play a game of RAZZLE DAZZLE? Here are the rules:
     Your initial money is 50 dollars.
     I throw 8 dices and sum the dots, and we check the sum on the RAZZLE DAZZLE BOARD. Each throw costs a dollar (at start). 
