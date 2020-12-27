@@ -5,5 +5,5 @@
 
 Looking at the board with winning numbers in Razzle Dazzle may leave an impression that the chances of winning are relatively high, which is not true. Because of eight marbles (in original carnival version) or dices (in this simplified version), the results ditribution has very high kurtosis, which means that extreme values from standard deviation (which kurtosis is 0) have much less chance of appearing. Player is fooled by overestimating his chances of success. Also, when playing the game in real life, the dealer usually misleads the player by counting his points wrongly in the beginning of the game, basically giving him an easy start which encourages the player to stay in the game longer. 
 
-
+I got the idea from Scam Nation video with James Grime: https://www.youtube.com/watch?v=527F51qTcTg
 
